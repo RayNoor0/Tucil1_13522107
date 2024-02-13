@@ -17,5 +17,5 @@ Run program pada windows maupun linux dengan mengeksekusi command berikut
 ```
 > [!IMPORTANT]
 > Executable yang dibuat pada windows, tidak bisa di-run di linux. Begitu juga sebaliknya.
-# Identitas
+<h2> Identitas </h2>
 - Rayendra Althaf Taraka Noor - 13522107
