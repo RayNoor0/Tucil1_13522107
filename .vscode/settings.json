@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.pl": "prolog",
-        "bitset": "cpp",
-        "algorithm": "cpp",
-        "format": "cpp"
-    }
-}
